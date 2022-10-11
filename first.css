@@ -1,0 +1,311 @@
+
+h1 {
+  font-size: 4.5rem;
+  font-weight:800;
+}
+
+
+
+.body {
+  background-color: black;
+
+}
+
+
+
+
+.branding {
+  color:  #ff4c68;
+
+}
+/* home section */
+.Home {
+  margin-right: 7%;
+  margin-left: 7%;
+  margin-top: 5%;
+  background-color: black;
+
+
+
+}
+
+.helps {
+  font-size: 4rem;
+  font-weight: 800;
+  margin-bottom: 5.5%;
+  word-spacing: 8px;
+  color: white;
+}
+
+.want {
+  margin-right: 16.5%;
+  margin-bottom: 12%;
+  color: #73777B;
+
+}
+
+.start-now {
+  padding: 10px 60px;
+  margin: 5% 1.8% 0px 0px;
+}
+
+.demo-training {
+  padding: 10px 40px;
+  margin-left: 1.8% ;
+  margin-top: 5% ;
+}
+
+.join {
+  background-color: #423F3E;
+}
+
+
+.col {
+  margin-right: 40px;
+}
+
+.program {
+  width: 100px;
+  height: 100px;
+}
+
+
+
+/* program section */
+ .Program {
+   margin: 2.8% 7%;
+   color: white;
+   background-color: black;
+ }
+
+ .card-text {
+   color: #F8EDE3;
+
+
+ }
+ .display-col {
+
+ }
+ .program-logo {
+   color: white;
+   margin: 20px 1px;
+ }
+
+
+
+ .program-body {
+   background-color: #ff4c68;
+   padding: 3.6% 1.4%;
+   border-radius: 5%;
+
+ }
+
+
+
+
+
+/* community program */
+ .Community {
+   margin: 2.1% 7%;
+
+ }
+
+ .community-col {
+   margin: 4.8% 4.8% 4.8% 0.1%;
+
+ }
+
+ .community-point {
+   color: white;
+ }
+
+ .second-image {
+   margin:9% 0.2% 0.2% 5.4%;
+ }
+
+
+
+/* Pricing plan */
+
+.pricing-plan {
+  text-align: center;
+  color: #ff4c68;
+  margin: 30px 1px;
+}
+
+.member-pricing {
+  text-align: center;
+  margin-right: 28%;
+  margin-left: 28%;
+  margin-bottom: 3%;
+  font-size: 4rem;
+  font-weight: 600;
+
+  word-spacing: 2px;
+  color: white;
+
+}
+
+.we-provide {
+  text-align: center;
+  margin-right: 35%;
+  margin-left: 35%;
+  color: #73777B;
+}
+
+
+
+.Pricing {
+
+  margin-top: 3.6%;
+  margin-bottom: 3.6%;
+  color: white;
+  background-color: black;
+}
+
+.first-pricing-div {
+  background-color:#1B1A17;
+  border-radius: 10px;
+  margin: 4.5% 3.6%;
+  padding: 5%;
+}
+
+.second-pricing-div {
+  background-color:#ff4c68;
+  border-radius: 10px;
+  margin: 4.5% 3.6%;
+  padding:4.6% 40px;
+}
+
+.third-pricing-div {
+  background-color:#1B1A17;
+  border-radius: 10px;
+  margin: 4.5% 3.6%;
+  padding-top: 5% ;
+  padding-left: 30px;
+}
+
+/* .btn-join {
+  padding-left: 20%;
+  padding-top:20%;
+  padding-left: 15%;
+  padding-right: 15%;
+
+} */
+
+.first-btn {
+  margin-top: 45%;
+
+  padding-top: 40px;
+}
+
+.second-btn {
+  margin-top: 37%;
+}
+
+.third-btn {
+  margin-top: 23%;
+}
+
+
+.container {
+  padding: 3.5% 0;
+}
+
+
+.line {
+  border-color: #F5F5F5;
+  width: 98%;
+}
+
+.tick {
+  background-color: white;
+  color: #ff4c68;
+}
+
+/* testimonilas sections */
+
+
+.Testimonials {
+  margin-left: 7.2%;
+  margin-right: 7.2%;
+}
+
+.test {
+  margin-right: 18.5%;
+  margin-left: 18.5%;
+  padding-top: 8.4%;
+  padding-bottom: 8.4%;
+}
+.testimonial-image {
+  border-radius: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.testimonial-name {
+  color: white;
+}
+.testimonial-word {
+  color: white;
+}
+
+
+
+
+
+/* contact section */
+
+.Contact {
+  background-color: black;
+}
+
+
+.contact-section {
+  background-color: #ff4c68;
+  text-align: center;
+  margin: 3% 10.7%;
+  border-radius: 20px;
+  padding: 5% 14% 7%;
+}
+
+form {
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.ready {
+  font-size: 4rem;
+  font-weight: 600;
+  color: white;
+}
+
+
+/* About section */
+
+.About {
+  margin: 7% 10%;
+
+}
+
+.developer {
+  color: #ff4c68;
+}
+
+ .first-menu {
+   color: white;
+   margin-bottom: 10%;
+ }
+ .second-menu {
+   color: white;
+ }
+ .third-menu {
+   color: white;
+ }
+
+ .design {
+   color: #73777B;
+ }
+
+ .logo {
+   margin: 4px 7px;
+ }
